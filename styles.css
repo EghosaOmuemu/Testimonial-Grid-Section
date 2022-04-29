@@ -24,6 +24,11 @@ img{
     height: 38px;  
 }
 
+.item1 img, .item2 img, .item4 img{
+    box-sizing: border-box;
+    border: 2px solid white;
+}
+
 .name{
     margin-bottom: 2px;
     font-weight: 500;
